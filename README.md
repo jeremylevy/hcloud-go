@@ -3,7 +3,7 @@
 [![GitHub Actions status](https://github.com/hetznercloud/hcloud-go/workflows/Continuous%20Integration/badge.svg)](https://github.com/hetznercloud/hcloud-go/actions)
 [![GoDoc](https://godoc.org/github.com/hetznercloud/hcloud-go/hcloud?status.svg)](https://godoc.org/github.com/hetznercloud/hcloud-go/hcloud)
 
-Package hcloud is a library for the Hetzner Cloud API.
+PPPackage hcloud is a library for the Hetzner Cloud API.
 
 The library’s documentation is available at [GoDoc](https://godoc.org/github.com/hetznercloud/hcloud-go/hcloud),
 the public API documentation is available at [docs.hetzner.cloud](https://docs.hetzner.cloud/).
